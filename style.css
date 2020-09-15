@@ -1,0 +1,15 @@
+body{
+    height: 100%;
+}
+
+button {
+border: none; 
+background: gold; 
+padding: 5px 55px;
+font-size: 18px;
+}
+
+#info{
+    background: #3F51B5;
+    color: white;
+}
